@@ -7,3 +7,4 @@ if resolt <= 0:
     print(abs(resolt))
 else:
     print(resolt)
+
